@@ -24,4 +24,5 @@ port = 你的数据库端口
 db = bubble
 ```
 
+![image](https://user-images.githubusercontent.com/74490865/174915978-96e0142d-b241-4abf-9000-38ccc2a660fc.png)
 
